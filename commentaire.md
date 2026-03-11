@@ -1,6 +1,6 @@
 # **Commentaire de la conférence de Werner Scheltjens**
 
-Gérald Kembellec, Maitre de conférences en sciences de l’information et de la communication, conservatoire des arts et métiers.
+Gérald Kembellec, *Maitre de conférences* en sciences de l’information et de la communication, conservatoire des arts et métiers.
 
 ## Introduction : **Tableau, capta et raison tabulaire**
 
