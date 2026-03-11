@@ -64,6 +64,19 @@ Des figures comme Charles Joseph Minard ou Florence Nightingale ont montré dès
 
 Ainsi, le tableau apparaît comme l’un des formats fondamentaux de l’édition scientifique de l’information.
 
+
+## **Le tableau dans la chaîne de transformation de la connaissance**
+On peut éclairer cette question à l’aide d’un modèle bien connu dans les sciences de l’information : la pyramide proposée par Russell L. Ackoff.
+
+Ce modèle distingue quatre niveaux en empilement : données, information, connaissance et sagesse.
+Dans cette perspective, l’information apparaît lorsque des données sont organisées et mises en relation.
+Or c’est précisément ce que fait un tableau : il transforme des observations dispersées en information structurée.
+
+Mais si l’on reprend la distinction entre *data* et *capta*, on comprend que même ce premier niveau n’est jamais totalement neutre.
+Les éléments que nous trouvons dans un tableau ne sont pas simplement donnés : ils ont été sélectionnés, construits et extraits du réel selon un certain cadre d’observation.
+Le tableau apparaît donc comme un dispositif central dans la transformation du réel en connaissance.
+Il organise des *capta* pour produire de l’information, laquelle pourra ensuite être interprétée pour produire de la connaissance.
+
 ## **Le tableau comme empreinte d’un paradigme de savoir**
 
 La troisième dimension de la conférence consiste à replacer les tableaux dans les cultures intellectuelles de leur époque.
@@ -94,3 +107,7 @@ Deuxièmement, les valeurs qui apparaissent dans les tableaux — particulièrem
 Troisièmement — et c’est peut-être la perspective la plus stimulante ouverte par cette conférence — l’histoire des tableaux pourrait aussi être l’histoire longue de ce que l’on pourrait appeler **l’infrastructure tabulaire de la culture des données**.
 
 Une histoire qui relierait, prolongerait les matrices graphiques des savoirs pré-numériques aux feuilles de calcul, aux bases de données et autres dataframes qui structurent aujourd’hui nos pratiques analytiques.
+
+Si l’on suit cette perspective, le tableau apparaît alors sous un jour nouveau.
+Il ne s’agit plus simplement d’un format de présentation des données, mais d’une véritable infrastructure cognitive de la connaissance.
+Et peut-être même de l’une des matrices historiques de notre culture contemporaine de la donnée.
