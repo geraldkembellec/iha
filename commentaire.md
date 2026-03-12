@@ -4,7 +4,7 @@ Gérald Kembellec, *Maitre de conférences* en sciences de l’information et de
 
 ## Introduction : **Tableau, capta et raison tabulaire**
 
-Permettez-moi de commencer par une idée simple, mais peut-être un peu déstabilisante pour les esprits cartésiens : dans un tableau, les données ne sont jamais véritablement « données ».
+Permettez-moi de commencer par l'appropriation d'une idée simple, mais peut-être un peu déstabilisante pour les esprits cartésiens : dans un tableau, les données ne sont jamais véritablement « données ».
 Pour reprendre la distinction proposée par Johanna Drucker, il serait plus juste de parler de *capta* que de *data*. Les informations qui apparaissent dans un tableau ne sont pas simplement là, transpositions factuelles du réel ; elles ont été **prises**, sélectionnées, catégorisées et transformées par un ensemble de décisions méthodologiques.
 Autrement dit, ce que nous lisons dans un tableau n’est jamais la réalité elle-même. C’est toujours une construction intellectuelle du réel.
 
