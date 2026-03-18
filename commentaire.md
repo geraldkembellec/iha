@@ -21,7 +21,6 @@ Ils doivent être compris comme des **artefacts culturels**, révélateurs de la
 Pour analyser ces objets, l’auteur propose une approche en trois dimensions : *Minds*, *Skills* et *Paradigms*.
 
 Ces trois niveaux permettent respectivement d’examiner :
-
 * les pratiques cognitives qui conduisent à la construction des tableaux,  
 * les compétences techniques et éditoriales qui déterminent leur formalisme,  
 * et les cadres intellectuels dans lesquels ils prennent sens.
@@ -46,19 +45,15 @@ Si l’on reprend la distinction de Johanna Drucker, les valeurs qui apparaissen
 Le tableau n’est donc pas seulement un support de restitution des informations.
 
 Il constitue déjà une **forme de modélisation implicite du phénomène étudié**.
-
-Le choix des lignes, des colonnes, des variables et des unités produit un certain cadrage de la réalité.
+Le choix des lignes, des colonnes, des variables et des unités produit un certain cadrage de la réalité, en préparant et en tentant de cardrer la réception.
 
 ## **Le tableau comme dispositif éditorial et visuel**
 
 La conférence rappelle également que les tableaux sont des objets matériels et éditoriaux.
 
-Les tableaux historiques mobilisent une grande variété de conventions graphiques : hiérarchies d’en-têtes, systèmes de lignes, typographies différenciées, regroupements ou sous-totaux.
+Les tableaux historiques mobilisent une grande variété de conventions graphiques : hiérarchies d’en-têtes, systèmes de lignes, typographies différenciées, regroupements ou sous-totaux. Ces éléments constituent une véritable **grammaire visuelle du tableau**.
 
-Ces éléments constituent une véritable **grammaire visuelle du tableau**.
-
-Si le tableau peut sembler, à première vue, plus neutre qu’une visualisation graphique, les informations qu’il organise sont presque toujours destinées à être interprétées, commentées et parfois transformées en graphiques.
-Or ces transformations introduisent des effets de lecture bien connus depuis les travaux de Jacques Bertin en 1967\.
+Si le tableau peut sembler, à première vue, plus neutre qu’une **visualisation graphique**, les informations qu’il organise sont presque toujours destinées à être interprétées, commentées et parfois transformées en graphiques. Or ces transformations introduisent des effets de lecture bien connus depuis les travaux de Jacques Bertin en 1967.
 
 Des figures comme Charles Joseph Minard ou Florence Nightingale ont montré dès le XIXᵉ siècle la puissance cognitive et rhétorique de ces dispositifs avec un accompagnement fort du lecteur.
 
@@ -175,6 +170,101 @@ Cette hypothèse permet de relier les pratiques savantes pré-numériques aux in
 Les tableaux ne sont pas de simples contenants de données. Ils constituent des technologies cognitives et éditoriales participant à la production et à l’organisation du savoir.
 
 En ce sens, une histoire culturelle du tableau peut être comprise comme une contribution à l’histoire des infrastructures de la connaissance et de la culture des données.
+
+## English version
+Tables, Capta, and Tabular Reason:
+
+Toward an Epistemological Reading of Tabular Forms
+
+Gérald Kembellec
+Associate Professor in Information and Communication Sciences
+Conservatoire national des arts et métiers (CNAM)
+
+⸻
+
+Abstract
+
+This article offers a critical reading of a lecture by Werner Scheltjens on the cultural history of tables. Drawing on Johanna Drucker’s distinction between data and capta, as well as Russell L. Ackoff’s DIKW model, we argue that tables are not neutral containers of data but cognitive and editorial technologies that actively participate in modeling reality. The article conceptualizes tabular forms as socio-technical artifacts embedded in knowledge regimes and advances the hypothesis of a “tabular reason,” extending Jack Goody’s notion of “graphic reason.”
+
+⸻
+
+1. Introduction: From Data to Capta
+
+Tables are ubiquitous in contemporary knowledge production, structuring how information is organized, analyzed, and communicated. Yet they are rarely examined as epistemic objects in their own right, and are most often treated as neutral formats for data presentation.
+
+This assumption rests on the idea that data are “given.” However, this view has been challenged, notably by Johanna Drucker, who distinguishes between data and capta (Drucker 2011). While data suggests a given, objective status, capta refers to elements that are “taken,” constructed through processes of selection, categorization, and interpretation.
+
+From this perspective, tables do not contain raw data, but capta: elements that have already been shaped by epistemic and methodological decisions.
+
+This shift allows us to reconsider tables not as passive containers, but as active participants in the production of knowledge.
+
+⸻
+
+2. Tables as Cognitive Technologies
+
+In his lecture, Werner Scheltjens proposes to analyze tables as cultural artifacts through three dimensions: Minds, Skills, and Paradigms.
+
+The Minds dimension focuses on the cognitive practices involved in table construction: data collection, categorization, aggregation, and calculation. Tables can thus be understood as cognitive technologies grounded in the spatial organization of information.
+
+The tabular structure—rows, columns, and cells—enables operations such as comparison, classification, and synthesis. However, these operations depend on prior decisions: the definition of variables, the construction of categories, and the choice of measurement units.
+
+In this sense, tables do not simply represent reality; they produce an implicit model of it.
+
+This is particularly evident in the humanities and social sciences, where indicators are explicitly constructed. Yet it also applies to experimental sciences, where measurement depends on metrological infrastructures—devices, scales, and reference systems (Porter 1995).
+
+⸻
+
+3. Tables as Editorial and Semiotic Devices
+
+The Skills dimension highlights the material and editorial aspects of tables.
+
+Historical tables rely on a complex visual grammar: hierarchical headers, typographic variations, grid systems, and grouping mechanisms. These features shape how information is read and interpreted.
+
+From this perspective, tables can be understood as semiotic devices, whose visual structure conditions cognitive operations.
+
+Jacques Bertin’s work on graphical semiology demonstrates that visual representations are never neutral (Bertin 1967). Historical examples, such as those of Charles Joseph Minard and Florence Nightingale, further illustrate the rhetorical power of data representations (Friendly 2008).
+
+Tables thus occupy a specific position at the intersection of writing, computation, and visualization.
+
+⸻
+
+4. Tables in the DIKW Chain
+
+The epistemic function of tables can be further clarified through Russell L. Ackoff’s DIKW model (Ackoff 1989), which distinguishes between data, information, knowledge, and wisdom.
+
+Within this framework, information emerges when data are organized and structured. Tables perform precisely this operation: they transform dispersed observations into structured information.
+
+However, if we adopt the perspective of capta, even this transformation operates on already constructed elements. Tables are therefore not neutral intermediaries, but structuring devices within the knowledge production process.
+
+They organize capta in ways that make interpretation—and thus knowledge—possible.
+
+⸻
+
+5. Tables as Socio-Technical Imprints
+
+The Paradigms dimension situates tables within broader knowledge cultures.
+
+The example of the Sundzolltabellen illustrates how tabular structures reflect intellectual choices. The selection of variables, the organization of categories, and the hierarchical ordering of data all express specific epistemic frameworks.
+
+Tables can thus be understood as socio-technical imprints, revealing the epistemic regimes in which they are produced (Latour 1987).
+
+⸻
+
+6. Toward a “Tabular Reason”
+
+These observations can be connected to Jack Goody’s notion of “graphic reason” (Goody 1977), which emphasizes how inscription systems—lists, tables, diagrams—transform cognitive practices.
+
+Extending this perspective, we propose the concept of tabular reason: a specific mode of organizing knowledge grounded in tabular structures.
+
+This concept allows us to bridge historical and contemporary practices, linking pre-digital tabular forms to modern data infrastructures such as spreadsheets, relational databases, and dataframes.
+
+⸻
+
+7. Conclusion
+
+Tables should not be understood as neutral containers of data. They are cognitive and editorial technologies that participate in the production, structuring, and interpretation of knowledge.
+
+A cultural history of tables thus contributes to a broader history of knowledge infrastructures and data cultures.
 
 ### Bibliographie / Bibliography
 - Ackoff, Russell L. 1989. “From Data to Wisdom.” Journal of Applied Systems Analysis 16: 3–9.
