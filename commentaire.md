@@ -1,4 +1,9 @@
 # **Commentaire de la conférence de Werner Scheltjens**
+
+- [commentaire oral]
+- [commentaire oral]
+- [english version](https://github.com/geraldkembellec/iha/blob/main/commentaire.md#english-version)
+  
 ## Version orale
 Gérald Kembellec, *Maitre de conférences* en sciences de l’information et de la communication, conservatoire des arts et métiers.
 
