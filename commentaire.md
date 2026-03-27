@@ -108,12 +108,12 @@ Cette hypothèse invite à reconsidérer le tableau comme un dispositif actif da
 ### Le tableau comme technologie cognitive
 La conférence de Werner Scheltjens propose de considérer les tableaux comme des artefacts culturels analysables selon trois dimensions : Minds, Skills et Paradigms.
 
-La dimension Minds renvoie aux pratiques cognitives impliquées dans la construction des tableaux : collecte, catégorisation, agrégation, calcul. Le tableau apparaît ainsi comme une technologie cognitive fondée sur la spatialisation de l’information.
+La **dimension Minds** renvoie aux pratiques cognitives impliquées dans la construction des tableaux : collecte, catégorisation, agrégation, calcul. Le tableau apparaît ainsi comme une technologie cognitive fondée sur la spatialisation de l’information.
 
 La structuration en lignes et colonnes permet des opérations telles que la comparaison, la classification ou la synthèse. Toutefois, ces opérations reposent sur des choix préalables : définition des variables, construction des catégories, sélection des unités. Le tableau constitue ainsi une forme de modélisation implicite du réel. Cette dimension est particulièrement visible dans les sciences humaines et sociales, où les indicateurs sont explicitement construits. Elle est cependant également présente dans les sciences expérimentales, où les dispositifs métrologiques conditionnent la production des mesures (Porter 1995).
 
 ### Le tableau comme dispositif éditorial et sémiotique
-La dimension Skills met en évidence la matérialité des tableaux et leur inscription dans des pratiques éditoriales.
+La **dimension Skills** met en évidence la matérialité des tableaux et leur inscription dans des pratiques éditoriales.
 
 Les tableaux mobilisent une grammaire visuelle complexe : hiérarchies d’en-têtes, typographies, systèmes de lignes, regroupements. Ces éléments structurent la lecture et orientent l’interprétation.
 
@@ -131,11 +131,11 @@ Dans ce modèle, l’information correspond à l’organisation de données mise
 Cependant, si l’on adopte la perspective des capta, cette transformation porte sur des éléments déjà construits. Le tableau ne constitue donc pas un simple niveau intermédiaire, mais un dispositif structurant dans la chaîne de production du savoir.
 
 ### Le tableau comme empreinte socio-technique
-La dimension Paradigms permet de replacer les tableaux dans les cultures de savoir de leur époque.
+La **dimension Paradigms** permet de replacer les tableaux dans les cultures de savoir de leur époque.
 
-L’exemple des Sundzolltabellen montre que les choix de structuration des données reflètent des orientations intellectuelles spécifiques. La sélection des variables, l’organisation des catégories ou la hiérarchisation des espaces traduisent des cadres de pensée particuliers.
+L’exemple des *Sundzolltabellen* montre que les choix de structuration des données reflètent des orientations intellectuelles spécifiques. La sélection des variables, l’organisation des catégories ou la hiérarchisation des espaces traduisent des cadres de pensée particuliers.
 
-Le tableau apparaît ainsi comme une empreinte socio-technique, révélatrice des régimes de savoir dans lesquels il s’inscrit (Latour 1987).
+Le tableau apparaît ainsi comme une empreinte socio-technique, révélatrice des **régimes de savoir** dans lesquels il s’inscrit (Latour 1987).
 
 ### Vers une raison tabulaire
 Ces observations peuvent être mises en relation avec les analyses de Jack Goody sur la « raison graphique » (Goody 1977). Les dispositifs d’inscription participent à la structuration des opérations intellectuelles.
@@ -182,10 +182,10 @@ The epistemic function of tables can be further clarified through Russell L. Ack
 
 However, if we adopt the perspective of capta, even this transformation operates on already constructed elements. Tables are therefore not neutral intermediaries, but structuring devices within the knowledge production process. They organize capta in ways that make interpretation—and thus knowledge—possible.
 
-### ables as socio-sechnical imprints
+### Tables as socio-sechnical imprints
 The Paradigms dimension situates tables within broader knowledge cultures. The example of the Sundzolltabellen illustrates how tabular structures reflect intellectual choices. The selection of variables, the organization of categories, and the hierarchical ordering of data all express specific epistemic frameworks. Tables can thus be understood as socio-technical imprints, revealing the epistemic regimes in which they are produced (Latour 1987).
 
-### Discussion : Toward a “Tabular Reason”
+### Discussion : Toward a “**Tabular Reason**”
 These observations can be connected to Jack Goody’s notion of “graphic reason” (Goody 1977), which emphasizes how inscription systems—lists, tables, diagrams—transform cognitive practices.
 
 Extending this perspective, we propose the concept of tabular reason: a specific mode of organizing knowledge grounded in tabular structures.
