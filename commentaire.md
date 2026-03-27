@@ -1,7 +1,7 @@
 # **Commentaire de la conférence de Werner Scheltjens**
 
 - [commentaire oral](https://github.com/geraldkembellec/iha/blob/main/commentaire.md#version-orale)
-- [commentaire oral]()
+- [commentaire rédigé](https://github.com/geraldkembellec/iha/blob/main/commentaire.md#version-r%C3%A9dig%C3%A9e)
 - [english version](https://github.com/geraldkembellec/iha/blob/main/commentaire.md#english-version)
   
 ## Version orale
