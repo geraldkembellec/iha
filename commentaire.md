@@ -1,7 +1,7 @@
 # **Commentaire de la conférence de Werner Scheltjens**
 ## Version orale
 Gérald Kembellec, *Maitre de conférences* en sciences de l’information et de la communication, conservatoire des arts et métiers.
-<blink>Test</blink>
+
 ## Introduction : **Tableau, capta et raison tabulaire**
 
 Permettez-moi de commencer par l'appropriation d'une idée simple, mais peut-être un peu déstabilisante pour les esprits cartésiens : dans un tableau, les données ne sont jamais véritablement « données ».
