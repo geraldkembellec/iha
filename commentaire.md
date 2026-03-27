@@ -74,7 +74,7 @@ Le tableau apparaît ainsi comme une **empreinte socio-technique** : il nous app
 ## **Vers une raison tabulaire**
 
 Ces observations peuvent être placées dans une réflexion plus large sur les dispositifs graphiques de la connaissance.
-Jack Goody avait déjà montré, à propos de la « raison graphique », que les dispositifs d’inscription — listes, tableaux, diagrammes — transforment profondément les opérations intellectuelles.
+Jack Goody avait déjà montré, à propos de la « [raison graphique](https://journals.openedition.org/questionsdecommunication/12581) », que les dispositifs d’inscription — listes, tableaux, diagrammes — transforment profondément les opérations intellectuelles.
 
 Dans cette perspective, on pourrait formuler l’hypothèse de l’existence d’une **raison tabulaire**.
 Autrement dit, un mode particulier d’organisation du savoir fondé sur la matrice tabulaire.
