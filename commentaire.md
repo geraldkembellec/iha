@@ -3,7 +3,8 @@
 - [commentaire oral](https://github.com/geraldkembellec/iha/blob/main/commentaire.md#version-orale)
 - [commentaire rédigé](https://github.com/geraldkembellec/iha/blob/main/commentaire.md#version-r%C3%A9dig%C3%A9e)
 - [english version](https://github.com/geraldkembellec/iha/blob/main/commentaire.md#english-version)
-  
+- [références / references](https://github.com/geraldkembellec/iha/blob/main/commentaire.md#bibliographie--references)
+
 ## Version orale
 Gérald Kembellec, *Maitre de conférences* en sciences de l’information et de la communication, conservatoire des arts et métiers.
 
